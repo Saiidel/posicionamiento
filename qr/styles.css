@@ -1,0 +1,39 @@
+html,
+body{
+    background: #d5e1ef;
+    box-sizing: border-box;
+    height: 100%;
+    margin:50px;
+    padding: 50 px;
+    text-align: center;
+    width:100%
+}
+
+.card-container{
+    background: #fff;
+    box-shadow: 0px 5px 20 px rgba(0,0,0,1);
+    border-radius: 20px;
+    display: inline-block;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.card-container.qr-container{
+    background: #2f7dfa;
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+}
+
+.card-container.qr-container img{
+    max-width: 100%;
+}
+
+.card-container h1{
+    font-size: 22px;
+}
+
+.card-container p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}

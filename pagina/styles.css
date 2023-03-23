@@ -1,0 +1,44 @@
+/*Seleccionar por clase */
+
+.clase1{
+    color:blue
+}
+
+.t5{
+    color:red
+}
+
+
+
+/*Seleccionar por id*/
+#h2{
+    color:cyan
+}
+
+/*Seleccionar por atributo */
+[saidel]{
+    color:blueviolet
+}
+
+/*Seleccionar por tag */
+h6{
+    color:darkgreen
+}
+
+h1{
+    color:fuchsia
+}
+
+p{
+    color:brown
+}
+
+.ejemplo-primera-clase h1{
+    color: yellowgreen
+}
+
+.container span{
+    color: red
+}
+
+

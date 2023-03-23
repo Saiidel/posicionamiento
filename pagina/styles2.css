@@ -1,0 +1,18 @@
+.abuelo{
+    color:red;
+}
+
+.padre{
+    color: aqua;
+}
+
+
+.hijo{
+    background:red;
+    color: blue;
+    transition: background 0.3s ease, color 2s ease;
+}
+.hijo:hover{
+    background: pink;
+    color:yellow;    
+}
